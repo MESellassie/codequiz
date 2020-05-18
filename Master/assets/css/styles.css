@@ -57,6 +57,11 @@ h1 {
   display: none;
 }
 
+.image {
+  height: auto;
+  width: 100%;
+}
+
 input[type="text"] {
   font-size: 100%;
 }
@@ -68,6 +73,13 @@ li {
 
 li:nth-child(odd) {
   background-color: #f3edfc;
+}
+
+.marvelImage {
+  height: auto;
+  width: 100%;
+  background-color: white;
+  padding: 0;
 }
 
 ol {
